@@ -1,5 +1,10 @@
+# Front Matter
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+date: 2021-09-11
+title: "Jekyll 첫번째 글"
+categories: blog
+tags: jekyll
+# 목차
+toc: true  
+toc_sticky: true 
 ---
